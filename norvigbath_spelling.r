@@ -1,3 +1,5 @@
+#Peter Norvig Spelling Checker from Python ported to R by Rasmus Baath
+
 # Read in big.txt, a 6.5 mb collection of different English texts.
 raw_text <- paste(readLines("http://www.norvig.com/big.txt"), collapse = " ")
 # Make the text lowercase and split it up creating a huge vector of word tokens.
