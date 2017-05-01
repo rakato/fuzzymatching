@@ -8,3 +8,4 @@ Collection of Fuzzy Matching/Entity Recognition Ideas and Code
 
 * Fuzzy Wuzzy From SeatGeek
    - <a href ="https://github.com/rakato/fuzzywuzzy" >repo link</a>
+   - <a href = "https://github.com/rakato/fuzzymatching/blob/master/fuzzytocsv.py" >Fuzzy match output to csv's </a>
