@@ -7,8 +7,8 @@ Collection of Fuzzy Matching/Entity Recognition Ideas and Code
         - <a href="https://github.com/rakato/fuzzymatching/blob/master/norvigbath_spelling.r">R code</a>
 
 * Fuzzy Wuzzy From SeatGeek
-   - <a href ="https://github.com/rakato/fuzzywuzzy" >repo link</a>
-   - <a href = "https://github.com/rakato/fuzzymatching/blob/master/fuzzytocsv.py" >Fuzzy match output to csv's </a>
+   - <a href ="https://github.com/rakato/fuzzywuzzy" >Fuzzy Wuzzy Github Repository Link</a>
+   - <a href = "https://github.com/rakato/fuzzymatching/blob/master/fuzzytocsv.py" > Python Fuzzy match output to csv's </a>
 
 * Levenshtein using a Trie
    - <a href = "http://stevehanov.ca/blog/index.php?id=114" > Steve Hanov Link </a>
