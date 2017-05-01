@@ -9,3 +9,7 @@ Collection of Fuzzy Matching/Entity Recognition Ideas and Code
 * Fuzzy Wuzzy From SeatGeek
    - <a href ="https://github.com/rakato/fuzzywuzzy" >repo link</a>
    - <a href = "https://github.com/rakato/fuzzymatching/blob/master/fuzzytocsv.py" >Fuzzy match output to csv's </a>
+
+* Levenshtein using a Trie
+   - <a href = "http://stevehanov.ca/blog/index.php?id=114" > Steve Hanov Link </a>
+   - <a href = "https://github.com/rakato/fuzzymatching/blob/master/lev_using_trie.py" > Python Code </a>
