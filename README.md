@@ -16,7 +16,9 @@ Collection of Fuzzy Matching/Entity Recognition Ideas and Code
    - <a href = "http://stevehanov.ca/blog/index.php?id=114" > Steve Hanov Link </a>
    - <a href = "https://github.com/rakato/fuzzymatching/blob/master/lev_using_trie.py" > Python Code </a>
 
-
+* Python Function
+   - <a href = "https://github.com/rakato/fuzzymatching/blob/master/levenshtein/levenshtein.py" > Levenshtein.py </a>
+   
 * Excel(Gasp!) Add-in for Fuzzy Match
    - <a href = "https://www.microsoft.com/en-us/download/details.aspx?id=15011" > Download Link </a>
    
