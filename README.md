@@ -20,5 +20,6 @@ Collection of Fuzzy Matching/Entity Recognition Ideas and Code
 * Excel(Gasp!) Add-in for Fuzzy Match
    - <a href = "https://www.microsoft.com/en-us/download/details.aspx?id=15011" > Download Link </a>
    
-
+* Dedupe.io
+   - <a href = "https://github.com/dedupeio/dedupe"> Github Link </a>
 
