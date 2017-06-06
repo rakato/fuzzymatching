@@ -25,5 +25,9 @@ Collection of Fuzzy Matching/Entity Recognition Ideas and Code
 * Dedupe.io
    - <a href = "https://github.com/dedupeio/dedupe"> Github Link </a>
    
-* <a href = "http://infolab.stanford.edu/~ullman/mmds/ch9.pdf"> Stanford Reccomendation Systems Chapter.pdf </a>
+* Recommender
+   - <a href = "http://infolab.stanford.edu/~ullman/mmds/ch9.pdf"> Stanford Reccomendation Systems Chapter.pdf </a>
+   - <a href = "http://www.benfrederickson.com/distance-metrics/"> Distance Metrics for Fun and Profit </a>
+
+
 
